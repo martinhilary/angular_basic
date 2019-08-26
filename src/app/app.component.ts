@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-
+//Decorator --> meta data used by the directive 
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
